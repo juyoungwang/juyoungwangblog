@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Data Scientist
+    company: The Bank of Nova Scotia (Scotiabank)
+    company_url: 'http://scotiabank.com'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Santiago, Chile
+    date_start: '2018-07-01'
+    date_end: '2018-11-01'
     description: |2-
         Responsibilities include:
-        
-        * Analysing
+        * Campaign management
+        * Data analysis and statistics
         * Modelling
-        * Deploying
+        
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Consultant
+    company: Groupe SII
+    company_url: 'https://sii-group.com/en-FR'
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2018-04-01'
+    date_end: '2018-06-30'
+    description: Worked as a data science consultant, together with digital banking team and business intelligence team of Scotiabank.
 
 design:
   columns: '2'
