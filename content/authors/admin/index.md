@@ -70,7 +70,7 @@ email: 'juyoung.wang@mail.utoronto.ca'
 highlight_name: true
 ---
 
-Juyoung Wang is a Ph.D. student in Industrial and Systems Engineering at the Computational Optimization Lab of University of Toronto. He obtained his Master of Applied Science degree in Industrial and Systems Engineering in University of Toronto, under supervision of two professors: [Merve Bodur](https://sites.google.com/site/mervebodr/) and [Mucahit Cevik](https://people.ryerson.ca/mcevik/).
+Juyoung Wang is a Ph.D. student in Industrial and Systems Engineering at the Computational Optimization Lab of University of Toronto. He obtained his Master of Applied Science degree in Industrial and Systems Engineering from University of Toronto, under supervision of two professors: [Merve Bodur](https://sites.google.com/site/mervebodr/) and [Mucahit Cevik](https://people.ryerson.ca/mcevik/).
 
 His research interests include both mathematical optimization and statistics, and their intersections such as statistical learning (both non-deep and deep learning) and interpretable AI. Juyoung also has worked on a variety of applied topics such as healthcare, sales time series forecasting applied to profit maximization, transportation and logistics.
 
