@@ -29,7 +29,7 @@ feature:
     icon_pack: custom
     name: Julia
   - description: CPLEX, Gurobi, Google OR Tools, among others.
-    icon: program
+    icon: computer-classic
     icon_pack: fab
     name: Optimization solvers
   - description: Statistical learning, Sampling, Time-series forecasting, among others.
