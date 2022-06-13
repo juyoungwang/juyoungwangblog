@@ -20,7 +20,7 @@ content:
     tag: ''
     category: ''
     publication_type: ''
-    author: ''
+    author: ["Juyoung Wang", "Mucahit Cevik", "Saman Hassanzadeh Amin", "Amir Ali Parsaee", "Merve Bodur", "Cheng Chi", "Amine Mohamed Aboussalah", "Elias B Khalil", "Zoha Sherkat-Masoumi"]
     exclude_featured: false
     exclude_future: false
     exclude_past: false

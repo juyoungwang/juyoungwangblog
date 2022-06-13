@@ -36,8 +36,8 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: Korean, English and Spanish.
-    icon: language
+  - description: Korean, English (TOEFL iBT 110/120) and Spanish.
+    icon: globe
     icon_pack: fab
     name: Language
 # Uncomment to use emoji icons.
