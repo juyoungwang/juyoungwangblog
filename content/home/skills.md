@@ -31,11 +31,15 @@ feature:
   - description: CPLEX, Gurobi, Google OR Tools, among others.
     icon: computer-classic
     icon_pack: fab
-    name: Optimization solvers
+    name: Mathematical optimization
   - description: Statistical learning, Sampling, Time-series forecasting, among others.
     icon: chart-line
     icon_pack: fas
     name: Statistics
+  - description: Korean, English and Spanish.
+    icon: language
+    icon_pack: fab
+    name: Language
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
