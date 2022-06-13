@@ -23,29 +23,69 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/E7SGUTMGHAKW
     date_end: ''
-    date_start: '2021-01-25'
-    description: ''
+    date_start: '2019-12-23'
+    description: 'Deep Learning specialization completion certificate.'
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Deep Learning
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/YZRVVGNVV9FB
+    date_end: ''
+    date_start: '2019-12-15'
+    description: 'Deep Learning specialization course completion certificate.'
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/389EDYYA4D4Z
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    date_start: '2019-12-17'
+    description: 'Deep Learning specialization course completion certificate.'
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Improving Deep Neural Networks - Hyperparameter Tuning, Regularization and Optimization
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/C7GX4YQHDQ8B
+    date_end: ''
+    date_start: '2019-12-18'
+    description: 'Deep Learning specialization course completion certificate.'
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Structuring Machine Learning Projects
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/JP36SLVC8S75
+    date_end: ''
+    date_start: '2019-12-20'
+    description: 'Deep Learning specialization course completion certificate.'
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Convolutional Neural Networks
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/TQ5CZ888R99U
+    date_end: ''
+    date_start: '2019-12-23'
+    description: 'Deep Learning specialization course completion certificate.'
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Sequence Models
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/6RM4Z5YHK8DG
+    date_end: ''
+    date_start: '2020-11-02'
+    description: 'Generative Adversarial Networks (GANs) specialization course completion certificate.'
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Build Basic Generative Adversarial Networks (GANs)
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/RY9MN5BV476D
+    date_end: ''
+    date_start: '2021-05-24'
+    description: 'Reinforcement Learning specialization course completion certificate.'
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Fundamentals of Reinforcement Learning
     url: ''
 
 design:
