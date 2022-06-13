@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -20,7 +20,7 @@ content:
     tag: ''
     category: ''
     publication_type: ''
-    author: ["Juyoung Wang", "Mucahit Cevik", "Saman Hassanzadeh Amin", "Amir Ali Parsaee", "Merve Bodur", "Cheng Chi", "Amine Mohamed Aboussalah", "Elias B Khalil", "Zoha Sherkat-Masoumi"]
+    author: ''
     exclude_featured: false
     exclude_future: false
     exclude_past: false
