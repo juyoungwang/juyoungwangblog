@@ -6,6 +6,6 @@ authors:  ["Merve Bodur", "Mucahit Cevik", "Andre Cire", "Mark Ruschin", "Juyoun
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "Major revision in Computers and Operations Research with surname-based-ordering of the authorship."
+publication: "Major revision in Computers and Operations Research with surname-based-ordering of the authorship"
 ---
 
