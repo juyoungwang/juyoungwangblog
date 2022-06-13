@@ -37,7 +37,7 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: Korean, English and Spanish.
-    icon: language
+    icon: globe
     icon_pack: fab
     name: Language
 # Uncomment to use emoji icons.
