@@ -16,18 +16,26 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description: Scikit-learn, Tensorflow, Pytorch, Gurobi
+    icon: python
+    icon_pack: fab
+    name: Python
+  - description: Statistical analysis
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
+  - description: JuMP, SDDP.jl
+    icon: programming/julia
+    icon_pack: custom
+    name: Julia
+  - description: CPLEX, Gurobi, Google OR Tools, among others.
+    icon: program
+    icon_pack: fab
+    name: Optimization solvers
+  - description: Statistical learning, Sampling, Time-series forecasting, among others.
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
