@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Scikit-learn, Tensorflow, Pytorch, Gurobi
+  - description: Scikit-learn, Tensorflow, Pytorch, among others
     icon: python
     icon_pack: fab
     name: Python
@@ -28,7 +28,7 @@ feature:
     icon: programming/julia
     icon_pack: custom
     name: Julia
-  - description: CPLEX, Gurobi, Google OR Tools, among others.
+  - description: Commercial solvers (CPLEX, Gurobi, CP optimizer), Non-commercial sovlers (SCIP, GLPK), Google OR Tools, among others.
     icon: globe
     icon_pack: fas
     name: Mathematical optimization
@@ -36,7 +36,7 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: Korean, English (TOEFL iBT 110/120) and Spanish (Graduated from Spanish University).
+  - description: Korean, English (TOEFL iBT 110/120) and Spanish.
     icon: globe
     icon_pack: fas
     name: Language
