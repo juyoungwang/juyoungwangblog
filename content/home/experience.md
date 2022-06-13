@@ -25,7 +25,7 @@ experience:
   - title: Data Scientist
     company: The Bank of Nova Scotia (Scotiabank)
     company_url: 'http://scotiabank.com'
-    company_logo: org-gc
+    company_logo: scotia
     location: Santiago, Chile
     date_start: '2018-07-01'
     date_end: '2018-11-01'
@@ -39,8 +39,8 @@ experience:
   - title: Consultant
     company: Groupe SII
     company_url: 'https://sii-group.com/en-FR'
-    company_logo: org-x
-    location: California
+    company_logo: sii
+    location: Santiago, Chile
     date_start: '2018-04-01'
     date_end: '2018-06-30'
     description: Worked as a data science consultant, together with digital banking team and business intelligence team of Scotiabank.
