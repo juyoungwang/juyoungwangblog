@@ -30,7 +30,7 @@ feature:
     name: Julia
   - description: CPLEX, Gurobi, Google OR Tools, among others.
     icon: computer
-    icon_pack: fab
+    icon_pack: fas
     name: Mathematical optimization
   - description: Statistical learning, Sampling, Time-series forecasting, among others.
     icon: chart-line
@@ -38,7 +38,7 @@ feature:
     name: Statistics
   - description: Korean, English (TOEFL iBT 110/120) and Spanish (Graduated from Spanish University).
     icon: globe
-    icon_pack: fab
+    icon_pack: fas
     name: Language
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
