@@ -28,7 +28,7 @@ feature:
     icon: programming/julia
     icon_pack: custom
     name: Julia
-  - description: Commercial solvers (CPLEX, Gurobi, CP optimizer), Non-commercial sovlers (SCIP, GLPK), Google OR Tools, (Deterministic/Stochastic) (Non)linear optimization, among others.
+  - description: Commercial solvers (CPLEX, Gurobi, CP optimizer), Non-commercial sovlers (SCIP, GLPK), Google OR Tools, (Deterministic/Stochastic) (Non)linear optimization, Dynamic programming, among others.
     icon: globe
     icon_pack: fas
     name: Mathematical optimization
