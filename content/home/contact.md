@@ -44,7 +44,7 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
+      name: You'd better send me an email, instead of DMing me.
       link: 'https://twitter.com/juyoungwang'
 
 design:
