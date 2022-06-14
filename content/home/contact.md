@@ -16,17 +16,17 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
 
   # Contact details (edit or remove options as required)
   email: juyoung.wang@mail.utoronto.ca
-  phone: Not available
+  # phone: Not available
   address:
     street: 40 St George St
     city: Toronto
@@ -38,9 +38,9 @@ content:
     latitude: '43.6570'
     longitude: '-79.3903'
   directions: Due to the pandemic, I work at home. Please leave email, in case you would like to contact me.
-  office_hours:
-    - 'Please send email, to book an office hour.'
-  appointment_url: '-'
+  # office_hours:
+  #   - 'Please send email, to book an office hour.'
+  # appointment_url: '-'
   contact_links:
     - icon: twitter
       icon_pack: fab
