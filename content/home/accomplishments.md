@@ -26,7 +26,7 @@ item:
   - certificate_url: https://www.coursera.org/account/accomplishments/specialization/E7SGUTMGHAKW
     date_end: ''
     date_start: '2019-12-23'
-    description: 'Deep Learning specialization completion certificate. The certificates are awared for those who completed the following five courses: Neural Networks and Deep Learning, Improving Deep Neural Networks - Hyperparameter Tuning, Regularization and Optimization, Structuring Machine Learning Projects, Convolutional Neural Networks, Sequence Models.'
+    description: 'Deep Learning specialization completion certificate. The certificate is awared for those who completed the following five courses: Neural Networks and Deep Learning, Improving Deep Neural Networks - Hyperparameter Tuning, Regularization and Optimization, Structuring Machine Learning Projects, Convolutional Neural Networks, Sequence Models.'
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Deep Learning
