@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Juyoung Wang
+title: Juyoung Wang (왕주영, 王主榮)
 
 # Is this the primary user of the site?
 superuser: true
@@ -69,6 +69,8 @@ email: 'juyoung.wang@mail.utoronto.ca'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+**I am actively looking for "Technical Research Personnel (전문연구요원)" job in Korean ML/AI/OR companies, in order to complete my military service. Feel free to contact me if you have any good position or information!**
 
 Juyoung Wang is a Ph.D. student in Industrial and Systems Engineering at the Computational Optimization Lab of University of Toronto. He obtained his Master of Applied Science degree in Industrial and Systems Engineering from University of Toronto, under supervision of two professors: [Merve Bodur](https://sites.google.com/site/mervebodr/) and [Mucahit Cevik](https://people.ryerson.ca/mcevik/).
 
