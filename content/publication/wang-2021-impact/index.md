@@ -7,5 +7,8 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*INFOR: Information Systems and Operational Research*"
+links:
+- name: Link
+  url: https://www.tandfonline.com/doi/abs/10.1080/03155986.2021.2015825
 ---
 

@@ -6,6 +6,9 @@ authors:  ["Merve Bodur", "Mucahit Cevik", "Andre Cire", "Mark Ruschin", "Juyoun
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "Major revision in Computers and Operations Research."
+publication: "Major revision in Computers and Operations Research"
+links:
+- name: Link
+  url: http://www.optimization-online.org/DB_FILE/2021/09/8579.pdf
 ---
 

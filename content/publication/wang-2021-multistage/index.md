@@ -8,7 +8,7 @@ abstract: ""
 featured: false
 publication: ""
 links:
-- name: link
+- name: Link
   url: https://tspace.library.utoronto.ca/handle/1807/108921/
 ---
 

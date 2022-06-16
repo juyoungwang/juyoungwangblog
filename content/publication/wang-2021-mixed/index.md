@@ -7,5 +7,8 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Transportation Research Part E: Logistics and Transportation Review*"
+links:
+- name: Link
+  url: https://www.sciencedirect.com/science/article/abs/pii/S1366554521001149
 ---
 

@@ -7,5 +7,8 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*arXiv preprint arXiv:2206.02568, Submitted*"
+links:
+- name: Link
+  url: https://arxiv.org/pdf/2206.02568
 ---
 
