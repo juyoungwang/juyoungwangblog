@@ -87,6 +87,15 @@ item:
     organization_url: https://www.coursera.org
     title: Fundamentals of Reinforcement Learning
     url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/YDWVTRFHA4F2
+    date_end: ''
+    date_start: '2022-07-12'
+    description: 'Natural Language Processing specialization course completion certificate.'
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Natural language processing with classification and vector spaces
+    url: ''
+
 
 design:
   columns: '2'
