@@ -6,7 +6,7 @@ authors: ["Cheng Chi", "Amine Mohamed Aboussalah", "Elias B Khalil", "Juyoung Wa
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*arXiv preprint arXiv:2206.02568, Currently on revision at NeurIPS2022 with mean acceptance score 5.5.*"
+publication: "Accepted at NeurIPS2022."
 links:
 - name: Link
   url: https://arxiv.org/pdf/2206.02568
