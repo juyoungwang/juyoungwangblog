@@ -6,12 +6,12 @@ title: Juyoung Wang
 superuser: true
 
 # Role/position/tagline
-role: Doctor of Philosophy student
+role: M.A.Sc. holder and Ph.D. dropout
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Toronto
-    url: https://www.utoronto.ca
+  - name: -
+    url: -
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include business analytics, data-driven optimization, machine learning, operations research and statistics.
