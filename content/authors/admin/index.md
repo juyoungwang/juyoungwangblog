@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. student in Industrial and Systems Engineering
+    - course: Ph.D. student in Industrial and Systems Engineering (Dropout)
       institution: University of Toronto
-      year: Ongoing
+      year: 2022
     - course: M.A.Sc. in Industrial and Systems Engineering
       institution: University of Toronto
       year: 2021
