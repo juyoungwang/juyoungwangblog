@@ -10,8 +10,8 @@ role: M.A.Sc. holder and Ph.D. dropout
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: -
-    url: -
+  - name: No affiliation.
+    url: www.jobless.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include business analytics, data-driven optimization, machine learning, operations research and statistics.
