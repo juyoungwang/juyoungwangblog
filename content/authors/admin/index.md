@@ -10,8 +10,8 @@ role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: No affiliation.
-    url: www.jobless.com
+  - name: acrossB
+    url: http://acrossb.net
 
 # Short bio (displayed in user profile at end of posts)
 bio: Machine learning engineer and Optimizer.
