@@ -29,7 +29,7 @@ content:
   # phone: Not available
   address:
     street: 114 Taebong-ro
-    city: Seocho-gu,
+    city: Seocho-gu
     region: Seoul
     postcode: 06764
     country: Republic of Korea
