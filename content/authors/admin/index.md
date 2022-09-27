@@ -6,7 +6,7 @@ title: Juyoung Wang
 superuser: true
 
 # Role/position/tagline
-role: M.A.Sc. holder and Ph.D. dropout
+role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: www.jobless.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include business analytics, data-driven optimization, machine learning, operations research and statistics.
+bio: Machine learning engineer and Optimizer.
 
 # Interests to show in About widget
 interests:
@@ -69,7 +69,7 @@ email: 'juyoung.wang@mail.utoronto.ca'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Juyoung Wang (왕주영, 王主榮) is a Ph.D. dropout (after one year of study) and Master of Applied Science degree (supervisors: [Merve Bodur](https://sites.google.com/site/mervebodr/) and [Mucahit Cevik](https://people.ryerson.ca/mcevik/)) holder from Industrial and Systems Engineering at University of Toronto . He obtained his Bachelor's degree from Institute for Mathematical and Computational Engineering of Pontifical Catholic University of Chile.
+Juyoung Wang (왕주영, 王主榮) is a data scientist at [acrossB](https://www.acrossb.net). Academically, he is a Ph.D. dropout (after one year of study) and Master of Applied Science degree (supervisors: [Merve Bodur](https://sites.google.com/site/mervebodr/) and [Mucahit Cevik](https://people.ryerson.ca/mcevik/)) holder from Industrial and Systems Engineering at University of Toronto . He obtained his Bachelor's degree from Institute for Mathematical and Computational Engineering of Pontifical Catholic University of Chile.
 
 His research interests include both mathematical optimization and statistics, and their intersections such as statistical learning (both non-deep and deep learning) and explainable AI. Juyoung also has worked on a variety of applied topics such as healthcare, sales time series forecasting applied to revenue optimization, transportation and logistics.
 
