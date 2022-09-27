@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Data Scientist
+    company: acrossB
+    company_url: 'https://www.acrossb.net'
+    company_logo: acrossb
+    location: Seoul, Korea
+    date_start: '20122-09-26'
+    date_end: ''
+    description: Alternative military service.
+   
+  - title: Data Scientist
     company: The Bank of Nova Scotia (Scotiabank)
     company_url: 'http://scotiabank.com'
     company_logo: scotia
