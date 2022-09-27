@@ -25,7 +25,7 @@ experience:
   - title: Data Scientist
     company: acrossB
     company_url: 'https://www.acrossb.net'
-    company_logo: axb.png
+    company_logo: 
     location: Seoul, Korea
     date_start: '2022-09-26'
     description: Alternative military service.
