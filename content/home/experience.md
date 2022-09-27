@@ -25,10 +25,9 @@ experience:
   - title: Data Scientist
     company: acrossB
     company_url: 'https://www.acrossb.net'
-    company_logo: acrossb
+    company_logo: scotia
     location: Seoul, Korea
     date_start: '20122-09-26'
-    date_end: ''
     description: Alternative military service.
    
   - title: Data Scientist
