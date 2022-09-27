@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.acrossb.net'
     company_logo: scotia
     location: Seoul, Korea
-    date_start: '20122-09-26'
+    date_start: '2022-09-26'
     description: Alternative military service.
    
   - title: Data Scientist
