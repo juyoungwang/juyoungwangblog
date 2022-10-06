@@ -95,6 +95,14 @@ item:
     organization_url: https://www.coursera.org
     title: Natural language processing with classification and vector spaces
     url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/VM8HE9QQWLC9
+    date_end: ''
+    date_start: '2022-10-05'
+    description: 'Practical Time Series Analysis course completion certificate.'
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Practical Time Series Analysis
+    url: ''
 
 
 design:
